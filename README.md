@@ -1,2 +1,2 @@
-# kinoarab.films.ru
+# kinoarab.github.io
 KinoArab
